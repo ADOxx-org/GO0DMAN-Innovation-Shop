@@ -1,0 +1,21 @@
+---
+layout: single
+---
+
+{{ content }}
+
+{% if page.sections and page.sections.informations %}
+  <h4>Informations</h4>
+  {{page.sections.informations}}
+{% endif %}
+{% if page.sections and page.sections.usage %}
+  <h4>Usage</h4>
+  {{page.sections.usage}}
+{% endif %}
+{% if page.sections and page.sections.extend %}
+  <h4>Extend</h4>
+  {{page.sections.extend}}
+{% endif %}
+
+<h4>Additional Informations</h4>
+{% include project-info.html %}
