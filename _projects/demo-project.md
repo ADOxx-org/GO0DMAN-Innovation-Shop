@@ -10,7 +10,7 @@ sections:
   extend: '<p>Add here informations about how to extend the innovation item in <b>HTML</b></p>'
 
 header:
-  image: 
+  image: assets/images/go0dman_blue.png
   teaser: assets/images/go0dman_blue.png
   
 sidebar:
@@ -22,7 +22,9 @@ sidebar:
     text: "Menu Item 2 text content"
 
 tags:
-  - demo
+  - Demo
+categories:
+  - Demo
 ---
 
 This innovation item is just a demo template you must use in order to create a new Innovation Item.
