@@ -10,21 +10,15 @@ sections:
   extend: '<p>Add here informations about how to extend the innovation item in <b>HTML</b></p>'
 
 header:
-  image: assets/images/go0dman_blue.png
-  teaser: assets/images/go0dman_blue.png
+  teaser: assets/images/demo_teaser.png
   
 sidebar:
   - title: "Side Menu Item 1"
-    image: assets/images/go0dman_blue.png
+    image: assets/images/demo_teaser.png
     image_alt: "GO0DMAN Logo"
     text: "Menu Item 1 text content"
   - title: "Side Menu Item 2"
     text: "Menu Item 2 text content"
-
-tags:
-  - Demo
-categories:
-  - Demo
 ---
 
 This innovation item is just a demo template you must use in order to create a new Innovation Item.
