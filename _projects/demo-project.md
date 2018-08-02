@@ -28,6 +28,5 @@ tags:
 This innovation item is just a demo template you must use in order to create a new Innovation Item.
 Read the instructions on the "Contribute" menu item in order to provide a new Innovation Item.
 
-**Informations**
-
+### Informations
 Add here extended/linked informations of the innovation item in `MARKDOWN` format
