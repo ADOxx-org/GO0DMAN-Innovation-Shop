@@ -6,8 +6,8 @@ owner: '<a href="mailto:damiano.falcioni@boc-eu.com">Damiano Falcioni (BOC)</a>'
 environment: "0"
 sections:
   #informations: 'Add here extended/linked informations of the innovation item in <b>HTML</b>'
-  usage: 'Add here informations about the usage of the innovation item in <b>HTML</b>'
-  extend: 'Add here informations about how to extend the innovation item in <b>HTML</b>'
+  usage: '<p>Add here informations about the usage of the innovation item in <b>HTML</b></p>'
+  extend: '<p>Add here informations about how to extend the innovation item in <b>HTML</b></p>'
 
 header:
   image: 
