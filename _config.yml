@@ -18,7 +18,7 @@ description              : &description "Innovation Shop for the EU Project GO0D
 url                      : https://ADOxx-org.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/GO0DMAN-Innovation-Shop" # the subpath of your site, e.g. "/blog"
 repository               : "ADOxx-org/GO0DMAN-Innovation-Shop"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/go0dman_blue.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -209,7 +209,7 @@ defaults:
       layout: project
       author_profile: false
       share: true
-      related: true
+      related: false
       read_time: true
       comments: false
       header:
