@@ -35,7 +35,7 @@
     {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
     
-    {% include project-info.html %}
+    <p>{% include project-info.html owner=post.owner trl=post.trl environment=post.environment %}</p>
     
   </article>
 </div>

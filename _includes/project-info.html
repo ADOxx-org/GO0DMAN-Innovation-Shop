@@ -1,11 +1,9 @@
-<p>
-{% if page.owner %}
-  <b>Owner: </b> {{page.owner}} </br>
+{% if include.owner %}
+  <b>Owner: </b> {{include.owner}} </br>
 {% endif %}
-{% if page.trl %}
-  <b>Technology Readiness Level: </b> {{page.trl}} </br>
+{% if include.trl %}
+  <b>Technology Readiness Level: </b> {{include.trl}} </br>
 {% endif %}
-{% if page.environment %}
-  <b>Environment: </b> {{page.environment}} </br>
+{% if include.environment %}
+  <b>Environment: </b> {{include.environment}} </br>
 {% endif %}
-</p>
