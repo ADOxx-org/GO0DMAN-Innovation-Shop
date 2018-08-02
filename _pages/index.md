@@ -5,8 +5,6 @@ permalink: /
 collection: projects
 entries_layout: grid
 classes: wide
-header:
-  image: /assets/images/header.jpg
 ---
 
 In the following you can find all the innovation items available in the GO0DMAN Project

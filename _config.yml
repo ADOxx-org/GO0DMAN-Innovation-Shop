@@ -199,6 +199,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        image: /assets/images/header.jpg
   # _projects
   - scope:
       path: ""
@@ -210,6 +212,8 @@ defaults:
       related: true
       read_time: true
       comments: false
+      header:
+        image: /assets/images/header.jpg
 
 
 # Sass/SCSS
