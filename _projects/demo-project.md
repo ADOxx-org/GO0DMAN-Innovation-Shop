@@ -2,7 +2,7 @@
 title: "DEMO Innovation Item"
 excerpt: "This innovation item is just a demo template you must use in order to create a new Innovation Item"
 trl: "8"
-owner: '<a href="mailto:damiano.falcioni@boc-eu.com">Damiano Falcioni (BOC)</a>'
+owner: '[Damiano Falcioni (BOC)](mailto:damiano.falcioni@boc-eu.com)'
 environment: "0"
 sections:
   #informations: 'Add here extended/linked informations of the innovation item in <b>HTML</b>'

@@ -1,9 +1,9 @@
 {% if include.owner %}
-  <b>Owner: </b> {{include.owner}} </br>
+  <b>Owner: </b> {{include.owner | markdownify}} </br>
 {% endif %}
 {% if include.trl %}
-  <b>Technology Readiness Level: </b> {{include.trl}} </br>
+  <b>Technology Readiness Level: </b> {{include.trl | markdownify}} </br>
 {% endif %}
 {% if include.environment %}
-  <b>Environment: </b> {{include.environment}} </br>
+  <b>Environment: </b> {{include.environment | markdownify}} </br>
 {% endif %}
