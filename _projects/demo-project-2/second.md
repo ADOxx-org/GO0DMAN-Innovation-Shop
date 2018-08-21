@@ -1,4 +1,5 @@
 ---
+hide: true
 title: "DEMO 2 Innovation Item"
 excerpt: "This innovation item is just a demo template you must use in order to create a new Innovation Item"
 trl: "8"
