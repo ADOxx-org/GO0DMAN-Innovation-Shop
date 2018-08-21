@@ -10,10 +10,10 @@ sections:
   #extend: '<p>Add here informations about how to extend the innovation item in <b>HTML</b></p>'
 
 header:
-  teaser: ../project_teaser.png
+  teaser: project_teaser.png
   
 sidebar:
-  - image: ../project_teaser.png
+  - image: project_teaser.png
     image_alt: "DEMO Project"
     title: "Project Pages"
     text: "[Home page](../home/)"
