@@ -4,10 +4,10 @@ title: "DEMO Project"
 hide: true
 
 header:
-  teaser: project_teaser.png
+  teaser: assets/images/demo_teaser.png
   
 sidebar:
-  - image: project_teaser.png
+  - image: assets/images/demo_teaser.png
     image_alt: "DEMO Project"
     title: "Project Pages"
     text: "[Home page](../home/)"
