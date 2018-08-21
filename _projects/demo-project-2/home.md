@@ -13,7 +13,7 @@ header:
   teaser: project_teaser.png
   
 sidebar:
-  - image: ../imgs/project_teaser.png
+  - image: /imgs/project_teaser.png
     image_alt: "DEMO Project"
     title: "Project Pages"
     text: "[Home page](../home/)"
