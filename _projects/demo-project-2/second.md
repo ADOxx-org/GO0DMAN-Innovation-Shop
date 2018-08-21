@@ -1,4 +1,6 @@
 ---
+title: "DEMO Project"
+
 hide: true
 
 header:
@@ -9,7 +11,8 @@ sidebar:
     image_alt: "DEMO Project"
     title: "Project Pages"
     text: "[Home page](../home/)"
-  - text: "[Another page](../second/)"
+  - text: "[Second page](../second/)"
 ---
 
 # Project SECOND PAGE
+Note that this page is not visualized in the collection due to the presence of the parameter `hide: true`
