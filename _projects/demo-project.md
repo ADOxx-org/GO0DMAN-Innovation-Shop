@@ -7,7 +7,7 @@ environment: "0"
 sections:
   #informations: 'Add here extended/linked informations of the innovation item in <b>HTML</b>'
   usage: '<p>Add here informations about the usage of the innovation item in <b>HTML</b></p>'
-  extend: '<p>Add here informations about how to extend the innovation item in <b>HTML</b></p>'
+  extend: 'Add here informations about how to extend the innovation item in <b>HTML</b>'
 
 header:
   teaser: assets/images/demo_teaser.png
